@@ -1,0 +1,14 @@
+C:\Users\1\Source\Repos\GL_ParametrisedQuery\GL_ParametrisedQuery\bin\Debug\netcoreapp2.0\GL_Records_CRUD_Operations.deps.json
+C:\Users\1\Source\Repos\GL_ParametrisedQuery\GL_ParametrisedQuery\bin\Debug\netcoreapp2.0\GL_Records_CRUD_Operations.runtimeconfig.json
+C:\Users\1\Source\Repos\GL_ParametrisedQuery\GL_ParametrisedQuery\bin\Debug\netcoreapp2.0\GL_Records_CRUD_Operations.runtimeconfig.dev.json
+C:\Users\1\Source\Repos\GL_ParametrisedQuery\GL_ParametrisedQuery\bin\Debug\netcoreapp2.0\GL_Records_CRUD_Operations.dll
+C:\Users\1\Source\Repos\GL_ParametrisedQuery\GL_ParametrisedQuery\bin\Debug\netcoreapp2.0\GL_Records_CRUD_Operations.pdb
+C:\Users\1\Source\Repos\GL_ParametrisedQuery\GL_ParametrisedQuery\bin\Debug\netcoreapp2.0\DAL.dll
+C:\Users\1\Source\Repos\GL_ParametrisedQuery\GL_ParametrisedQuery\bin\Debug\netcoreapp2.0\Entities.dll
+C:\Users\1\Source\Repos\GL_ParametrisedQuery\GL_ParametrisedQuery\bin\Debug\netcoreapp2.0\Entities.pdb
+C:\Users\1\Source\Repos\GL_ParametrisedQuery\GL_ParametrisedQuery\bin\Debug\netcoreapp2.0\DAL.pdb
+C:\Users\1\Source\Repos\GL_ParametrisedQuery\GL_ParametrisedQuery\obj\Debug\netcoreapp2.0\GL_Records_CRUD_Operations.csproj.CoreCompileInputs.cache
+C:\Users\1\Source\Repos\GL_ParametrisedQuery\GL_ParametrisedQuery\obj\Debug\netcoreapp2.0\GL_Records_CRUD_Operations.AssemblyInfoInputs.cache
+C:\Users\1\Source\Repos\GL_ParametrisedQuery\GL_ParametrisedQuery\obj\Debug\netcoreapp2.0\GL_Records_CRUD_Operations.AssemblyInfo.cs
+C:\Users\1\Source\Repos\GL_ParametrisedQuery\GL_ParametrisedQuery\obj\Debug\netcoreapp2.0\GL_Records_CRUD_Operations.dll
+C:\Users\1\Source\Repos\GL_ParametrisedQuery\GL_ParametrisedQuery\obj\Debug\netcoreapp2.0\GL_Records_CRUD_Operations.pdb
